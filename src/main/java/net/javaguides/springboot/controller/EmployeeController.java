@@ -16,7 +16,7 @@ import net.javaguides.springboot.model.Employee;
 import net.javaguides.springboot.service.EmployeeService;
 
 @Controller
-public class EmployeeController ;
+public class EmployeeController {
 
 	@Autowired
 	private EmployeeService employeeService;
